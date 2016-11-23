@@ -1,0 +1,2 @@
+# RecognizeHandwritingNumber
+使用Opencv2的简单的手写数字的识别程序
